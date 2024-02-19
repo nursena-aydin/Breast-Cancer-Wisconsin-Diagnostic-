@@ -1,4 +1,4 @@
-# Breast Cancer Predictor
+# Breast Cancer Predictor(Streamlit)
 
 Bu proje, meme kanseri hücre kümelerinin iyi huylu (benign) veya kötü huylu (malignant) olup olmadığını tahmin etmek için bir makine öğrenimi modeli kullanır. Model, sitoloji laboratuvarınızdan yapılan ölçümlere dayanır ve Streamlit kullanılarak bir web uygulaması olarak sunulmuştur.
 
