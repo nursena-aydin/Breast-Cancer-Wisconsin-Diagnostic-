@@ -1,0 +1,33 @@
+Uygulama, Visual Studio Code ide si kullanılarak yazıldı.
+
+Python sürümü: 3.12.2 
+
+Uygulamanın dataları main.py da eğitildi.
+Asıl uygulama "app" dosyasının içindeki "main.py" içindedir. -> app/main.py
+
+----------------------------------------------------------
+Gerekli kütüphaneler:
+
+matplotlib
+sklearn (scikit-learn)
+streamlit
+pickle
+pandas
+plotly
+numpy
+StandardScaler
+metrics 
+confusion_matrix
+
+----------------------------------------------------------
+
+- pandas: "pip install pandas"komutu ile yüklenir.
+- streamlit: "pip install streamlit" komutu ile yüklenir.
+- plotly: "pip install plotly" komutu ile yüklenir.
+
+----------------------------------------------------------
+
+Uygulamayı başlatmak için aşağıdaki komutu çalıştırmanız yeterlidir:
+-> streamlit run app/main.py
+
+ ----------------------------------------------------------
